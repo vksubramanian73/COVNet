@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPS App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="access_the_map">Access the Map!</string>
+    <string name="have_you_had_covid_19">Do you have COVID-19?</string>
+    <string name="streamlined_social_distancing">COVNet</string>
+    <string name="this_app_locates_people_who_have_covid_19_so_that_you_can_practice_effective_social_distancing_it_will_also_dynamically_update_your_marker_according_to_your_current_state">This app locates people who have COVID-19 on a map so that you can practice effective social distancing! It will also dynamically update your marker according to your current state.</string>
+    <string name="yes_but_i_have_been_quarantined_for_14_days">No, but I have symptoms.</string>
+    <string name="username">Username:</string>
+    <string name="new_user">New User</string>
+    <string name="existing_user">Existing User</string>
+    <string name="new_user_page">New User Page</string>
+    <string name="existing_user_page">Existing User Page</string>
+    <string name="next">Next</string>
+    <string name="status_page">Status Page</string>
+</resources>
